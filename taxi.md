@@ -65,7 +65,8 @@ In each episode:
 * Discount Factor (γ) to value future rewards appropriately  
 * Exploration Rate (ε) to balance exploration vs. exploitation
 
-**Testing**                                                                                                               After training, I ran 100 test episodes using a greedy policy (no exploration) to evaluate how well the agent had learned. Got an average reward of 8.54 over 100 test episodes.
+**Testing**                                                                                                              
+After training, I ran 100 test episodes using a greedy policy (no exploration) to evaluate how well the agent had learned. Got an average reward of 8.54 over 100 test episodes.
 
 ## 
 
